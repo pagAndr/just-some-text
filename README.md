@@ -15,7 +15,7 @@
 		* Rechizitele și echipamentul oferit clienților
 	* Despre costurile pe unitate
 		* Afacerea noastră oferă un serviciu, am calculat **Costul Serviciului***
-			* În Costul Serviciului am inclus majoritatea cheltuielilor în afară de branding, din cauza că ele toate contribuie la crearea serviciului, inclusiv angajații
+			* În Costul Serviciului am inclus majoritatea cheltuielilor în afară de branding, din cauza că majoritatea contribuie la crearea serviciului, inclusiv angajații
 			* În anul 1 Costul Serviciului depășește prețul serviciului, după care scade, în anul 5 atingând un raport de marjă de profit brut pe serviciu de 44%
 
 # VERSIUNE PENTRU CA SĂ ÎNȚELEGI
